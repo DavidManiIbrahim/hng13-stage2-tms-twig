@@ -1,4 +1,4 @@
-## TicketApp - Twig/PHP Version
+## TMS - Twig/PHP Version
 A complete ticket management system built with PHP and Twig templating engine. Identical functionality to React and Vue versions.
 
 ## Quick Start
